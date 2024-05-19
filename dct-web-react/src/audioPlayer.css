@@ -1,0 +1,11 @@
+.audio-player-container {
+    max-width: 300px; /* Adjust the maximum width as needed */
+    margin: 0 auto; /* Center the audio player */
+}
+
+.custom-audio-player {
+    width: 100%; /* Make the audio player fill its container */
+    background-color: #333; /* Change the background color to dark */
+    color: #fff; /* Change the text color to light */
+    border-radius: 5px; /* Add rounded corners */
+}

@@ -1,0 +1,6 @@
+@dctrestapi_HostAddress = http://localhost:5090
+
+GET {{dctrestapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
